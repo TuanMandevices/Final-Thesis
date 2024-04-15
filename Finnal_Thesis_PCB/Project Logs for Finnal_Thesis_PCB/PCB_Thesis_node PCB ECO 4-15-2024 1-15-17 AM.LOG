@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PB0 Pin=*-3
+Added Pin To Net: NetName=PB0 Pin=U1-21
+Change Net Name : Old Net Name=PB0 New Net Name=PB10
+Added Member To Class: ClassName=U_MCU Member=Component C2 10uF
+Added Room: Name=U_Lora
+Added Room: Name=U_MCU
+Added Room: Name=U_MPTT
+Added Room: Name=U_Power
+Added Room: Name=U_Sensor
