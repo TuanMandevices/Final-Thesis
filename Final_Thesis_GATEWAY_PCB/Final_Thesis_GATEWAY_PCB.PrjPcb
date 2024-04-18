@@ -159,6 +159,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSQAMASP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Final_Thesis_GATEWAY_PCB\Design Rule Check - PCB_Thesis_Gateway.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

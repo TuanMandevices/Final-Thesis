@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SRN Pin=C22-1
+Removed Pin From Net: NetName=SRN Pin=C34-2
+Removed Pin From Net: NetName=SRN Pin=U3-1
+Added Component: Designator=J7(CON2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SRN Pin=J7-1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=C34-2
+Added Pin To Net: NetName=NetC22_1 Pin=J7-2
+Added Pin To Net: NetName=NetC22_1 Pin=U3-1
+Added Net: Name=NetC22_1
+Added Member To Class: ClassName=U_Power Member=Component J7 SW
+Added Room: Name=U_Lora
+Added Room: Name=U_MCU
+Added Room: Name=U_MPTT
+Added Room: Name=U_Power
+Added Room: Name=U_Sensor
