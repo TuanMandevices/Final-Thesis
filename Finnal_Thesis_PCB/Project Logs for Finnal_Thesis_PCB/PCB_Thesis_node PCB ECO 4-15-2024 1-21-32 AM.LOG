@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PB10 Pin=*-3
-Added Room: Name=U_Lora
-Added Room: Name=U_MCU
-Added Room: Name=U_MPTT
-Added Room: Name=U_Power
-Added Room: Name=U_Sensor
